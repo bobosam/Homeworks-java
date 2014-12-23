@@ -1,0 +1,5 @@
+Folder ../src
+
+javac Problem06_SumTwoNumbers.java
+
+java Problem06_SumTwoNumbers
